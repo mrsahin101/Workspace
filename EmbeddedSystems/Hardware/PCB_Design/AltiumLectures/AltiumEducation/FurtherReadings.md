@@ -1,0 +1,12 @@
+# FURTHER READINGS
+- Course Glossary : https://edcamp.us/p/glossary
+- How to Become a PCB Designer in Today's World : https://resources.altium.com/p/how-to-become-a-pcb-designer-in-today-s-world
+- Getting Started with PCB Design : https://resources.altium.com/p/getting-started-pcb-design
+- PCB Core vs Prepreg Materials - What Designers Need to Know : https://resources.altium.com/p/pcb-core-vs-prepreg-material-what-designers-need-to-know
+- PCB Layout Tip - Save Time with Reusable Blocks : https://resources.altium.com/p/pcb-layout-tip-save-time-reusable-blocks
+- Collecting All the Pieces You Need - What is a Bill of Materials : https://resources.altium.com/p/what-is-a-bom-in-pcb-design2
+- CircuitMaker : Free Altium ECAD tool : https://www.altium.com/circuitmaker?srsltid=AfmBOor3LXoLTzL-DmY-MYiv1GkSIuAYy8z1qeFMHUFk5Q3jKZptts1e
+- Supply Chain Insights from IHS Markit - AltiumLive 2022 : https://resources.altium.com/p/supply-chain-insights-ihs-markit-altiumlive-2022
+- Altium Concord Pro : https://www.altium.com/documentation/altium-concord-pro?srsltid=AfmBOorWR_FyyjSSkhHdeWRLxDNAjRBUDlTX6AP2l3HmGTVcfgk6qWb4
+- Jumpstart Your Next Design : https://resources.altium.com/p/jumpstart-your-next-design
+- How Your Altium 365 Workspace Keeps You Organized : https://resources.altium.com/p/how-your-altium-365-workspace-keeps-you-organized

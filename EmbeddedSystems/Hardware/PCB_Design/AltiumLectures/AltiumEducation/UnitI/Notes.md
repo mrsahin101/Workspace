@@ -65,7 +65,7 @@
 
 - A PCB design project could have several schematic sheets, all of which show the electrical information in your PCB layout. Schematics show several important pieces of information that are not contained in the PCB layout.
 
-| What's in schematic sheets                                                | What's not in schematic sheets                                                    |
+| **What's in schematic sheets**                                            | **What's not in schematic sheets**                                                |
 |:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
 | All components that are used in the design                                | Physical location of components in a PCB layout                                   |
 | Nets that make electrical connections between components                  | Whether nets are composed of traces, vias, planes or polygons                     |

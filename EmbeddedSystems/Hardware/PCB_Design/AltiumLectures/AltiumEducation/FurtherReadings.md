@@ -10,3 +10,13 @@
 - Altium Concord Pro : https://www.altium.com/documentation/altium-concord-pro?srsltid=AfmBOorWR_FyyjSSkhHdeWRLxDNAjRBUDlTX6AP2l3HmGTVcfgk6qWb4
 - Jumpstart Your Next Design : https://resources.altium.com/p/jumpstart-your-next-design
 - How Your Altium 365 Workspace Keeps You Organized : https://resources.altium.com/p/how-your-altium-365-workspace-keeps-you-organized
+- How to Create a PCB Schematic : https://resources.altium.com/p/schematic-tutorial-altium-designer-journey-thousand-pcbs
+- Creating Elegant and Readable Schematics : https://resources.altium.com/p/creating-elegant-and-readable-schematics
+- Advantages of Hierarchical Schematic Design for PCB Schematic Layouts : https://resources.altium.com/p/how-hierarchical-schematic-design-can-help-your-next-pcb-schematic-layout
+- Octopart Website : https://octopart.com/
+- Octopart Youtube Channel : https://www.youtube.com/@Octopart/videos
+- How to Automate Electric Component Data Tracking : https://resources.altium.com/p/how-automate-electronic-component-data-tracking
+- How Datasheets Make Engineering Possible : https://octopart.com/pulse/p/how-datasheets-make-engineering-possible
+- Component Shortages Report from IHS : https://resources.altium.com/p/component-shortages-report-ihs
+- Standart Board Thickness and Your Layer Stack : https://resources.altium.com/p/standard-board-thickness-and-your-layer-stack
+- How to Create a PCB Layout from a Schematic in Altium Designer : https://resources.altium.com/p/how-create-pcb-layout-schematic-altium-designer

@@ -20,3 +20,21 @@
 - Component Shortages Report from IHS : https://resources.altium.com/p/component-shortages-report-ihs
 - Standart Board Thickness and Your Layer Stack : https://resources.altium.com/p/standard-board-thickness-and-your-layer-stack
 - How to Create a PCB Layout from a Schematic in Altium Designer : https://resources.altium.com/p/how-create-pcb-layout-schematic-altium-designer
+- Communicating PCB Layer Stackup Needs to Manufacturers : https://resources.altium.com/p/communicating-pcb-layer-stackup-needs-manufacturers
+- How to Choose PCB Plating for Your Finished Board : https://hilelectronic.com/tr/solder-mask/
+- PCB Manufacturing Technology : https://www.youtube.com/results?search_query=PCB+Manufacturing
+- Complete Guide to DFM Analysis : https://resources.altium.com/p/complete-guide-dfm-analysis?_gl=1*1ad3wxb*_ga*MjU5ODI0NjI5LjE3NDcxMjA5MDg.*_ga_EQYLKH6HVJ*czE3NDc1NTg3NjkkbzE2JGcwJHQxNzQ3NTU4Nzk3JGozMiRsMCRoMCRkcV9FSGZWRVM3UHhXd3QzWkl1TFUyT1AwME1Ib0ZYM3RIdw..
+- How to Choose Board Plating and Thickness for Your PCB : https://resources.altium.com/p/how-choose-pcb-plating-your-finished-board
+- Top 10 DFM Problems That Affect Every Design : https://resources.altium.com/p/top-10-dfm-problems-that-affect-every-design?_gl=1*1buzjl7*_ga*MjU5ODI0NjI5LjE3NDcxMjA5MDg.*_ga_EQYLKH6HVJ*czE3NDc1NTg3NjkkbzE2JGcwJHQxNzQ3NTU4Nzk3JGozMiRsMCRoMCRkcV9FSGZWRVM3UHhXd3QzWkl1TFUyT1AwME1Ib0ZYM3RIdw..
+- Top 4 Time Wasters in PCB Design Collaboration : https://resources.altium.com/p/top-4-time-wasters-pcb-design-collaboration-0
+- Altium Designer Documentation : https://www.altium.com/documentation/altium-designer
+- My Favorite Altium Designer Keyboard Shortcuts and Viewing Features : https://resources.altium.com/p/my-favorite-altium-designer-keyboard-shortcuts-and-viewing-features
+- Better PCB Routing - Highlight Net : https://resources.altium.com/p/how-highlight-nets-altium-designer-simplify-schematic-and-pcb-designs
+- Browsing the Active PCB Design using the PCB Panel in Altium Designer : https://www.altium.com/documentation/altium-designer/pcb-panel
+- PCB FR-4 Materials Are Not All The Same : https://resources.altium.com/p/pcb-fr-4-materials-are-not-all-same
+- PCB Ground Plane Best Practices in Your Multilayer Stackup : https://resources.altium.com/p/pcb-ground-plane-best-practices-your-multilayer-stackup
+- All About IPC-4101 and IPC-4103 Slash Sheets : https://resources.altium.com/p/all-about-ipc-4101-and-ipc-4103-slash-sheets
+- The Great PCB Layout "Rules of Thumb" Debate Rages On : https://resources.altium.com/p/great-pcb-layout-rules-thumb-debate-rages
+- Customizing Performance-Based Electrical Design Rules in Altium Designer : https://resources.altium.com/p/customizing-electrical-performance-based-design-rules-altium-designer
+- Where Do They All Go? PCB Layout Component Placement Guidelines : https://resources.altium.com/p/where-do-they-all-go-pcb-layout-component-placement-guidelines
+- Top 5 PCB Design Guidelines Every PCB Designer Needs to Know : https://resources.altium.com/p/pcb-layout-guidelines
